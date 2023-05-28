@@ -1,2 +1,2 @@
-# BenBesthof.github.io
-All of my data science notebooks from academic years
+# Ben_Besthof_Portfolio.github.io
+My data science projects from academic years
